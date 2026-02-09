@@ -1,0 +1,37 @@
+library(Biostrings)
+
+
+ecoli <- readDNAStringSet("E.coli_sequence.fasta")
+
+counts <- letterFrequency(ecoli, letters = c("A","T","G","C"))
+counts
+
+
+total <- sum(counts)
+
+A <- (counts[, "A"] / total) * 100
+T <- (counts[, "T"] / total) * 100
+G <- (counts[, "G"] / total) * 100
+C <- (counts[, "C"] / total) * 100
+
+GC <- G + C
+
+Volcanium <- readDNAStringSet("Volcanium_sequence.fasta")
+
+counts <- letterFrequency(Volcanium, letters = c("A","T","G","C"))
+counts
+counts
+total <- sum(counts)
+total
+A <- (counts[, "A"] / total) * 100
+T <- (counts[, "T"] / total) * 100
+G <- (counts[, "G"] / total) * 100
+C <- (counts[, "C"] / total) * 100
+
+GC <- G + C
+
+A
+T
+C
+G
+GC
