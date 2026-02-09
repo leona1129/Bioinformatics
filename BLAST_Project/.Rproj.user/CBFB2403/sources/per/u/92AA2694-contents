@@ -1,0 +1,12 @@
+
+filepath <- system.file("clustalo.aln-clustal_num", package="msa")
+
+mySeqs <- readAAStringSet(filepath)                                         
+myAlignment <- msa()                                          
+
+
+myAlignment <- msa(deino)  
+
+consensus <- msaConsensusSequence(myAlignment)
+
+nchar(consensus)

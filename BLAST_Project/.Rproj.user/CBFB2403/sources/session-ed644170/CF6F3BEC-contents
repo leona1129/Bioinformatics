@@ -1,9 +1,0 @@
-deino <- readDNAStringSet("16SRNA_Deino_87seq.fasta")
-
-nchar(deino) [[1]]
-
-library(msa)
-library(Biostrings)
-
-
-nchar
