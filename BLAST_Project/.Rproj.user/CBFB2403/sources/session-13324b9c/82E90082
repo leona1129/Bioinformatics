@@ -1,12 +1,12 @@
 {
-    "id": "A078B4D3",
-    "path": "C:/Users/leona/Downloads/sequence.fasta",
-    "project_path": null,
+    "id": "82E90082",
+    "path": "C:/Users/leona/OneDrive/Desktop/Bioinformatics/BLAST_Project/Dengue_seq.fasta",
+    "project_path": "Dengue_seq.fasta",
     "type": "text",
-    "hash": "2865063486",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1770655493411.0,
+    "created": 1770661969382.0,
     "source_on_save": false,
     "relative_order": 8,
     "properties": {
@@ -14,11 +14,11 @@
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1770655488,
+    "lastKnownWriteTime": 1770048911,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1770655488,
+    "last_content_update": 1770048911,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,24 +1,26 @@
 {
-    "id": "AE05B3C9",
-    "path": "C:/Users/leona/Downloads/sequence (1).fasta",
+    "id": "DC3BBF60",
+    "path": "C:/Users/leona/Downloads/Lab_3_Sequences.fasta",
     "project_path": null,
     "type": "text",
-    "hash": "1234305760",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1770655785693.0,
+    "created": 1770257954814.0,
     "source_on_save": false,
-    "relative_order": 9,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "21,420",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1770655757,
+    "lastKnownWriteTime": 1769448124,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1770655757,
+    "last_content_update": 1769448124,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,3 +1,7 @@
+mySeqs <- readAAStringSet("C:\Users\leona\OneDrive\Desktop\Bioinformatics\clustalo-I20260204-171732-0979-18919214-p1m.aln-clustal_num")                                         
+
+
+myAlignment <- msa(Deino)  
 
 filepath <- system.file("clustalo.aln-clustal_num", package="msa")
 

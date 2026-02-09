@@ -1,0 +1,28 @@
+{
+    "id": "2D1BEC82",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1770662000732.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "id": "e92a4cf4caf844cb943c592ebfa10dad",
+        "name": "deino",
+        "title": "deino",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7307491043415436322,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1770662000732,
+    "read_only": false,
+    "read_only_alternatives": []
+}
