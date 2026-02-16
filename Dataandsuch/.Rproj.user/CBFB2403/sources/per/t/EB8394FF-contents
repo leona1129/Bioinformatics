@@ -1,0 +1,4 @@
+write-host "Hello World!"
+Get-Date
+Get-Location
+Get-childitem
