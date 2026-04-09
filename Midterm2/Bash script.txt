@@ -1,0 +1,2 @@
+#!/bin/bash
+raxml-ng --all --msa metazoa_alignment.5k.fasta --model GTR+G --prefix metazoa_raxml --seed 2 --threads 2 --bs-metric fbp,tbe
